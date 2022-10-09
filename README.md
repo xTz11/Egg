@@ -1,7 +1,4 @@
-# Thx for the base egg to:
-brycea@terrahost.cloud
-
-## Modified by Aoki
+# Night of the Dead eggs:
 xt4s311@gmail.com
 ## from the developers
 Lucy wakes up from a human experiment and gets trapped in a city covered with zombies. She must survive nightly zombie waves and communicate with a group of survivors to escape from the isolated area.
