@@ -9,7 +9,7 @@ Survive, exploring a vast island where everything is interactive and covered wit
 - Create various items and equipment through crafting to survive from zombies and harsh environments.
 - Find clues through the journals and escape the island. 
 ## Installation !!!!
-Create your server as usual, after its installation, start your server and wait 2 min for it to start (errors will be displayed, ignore them...) Edit the file: Serversettings.ini in the server root (Server name, password server pass, etc...) then copy this file to: /LF/Saved/Config/ replace the existing one.
+Create your server as usual on pterodactyl, after its installation, start your server and wait 2 min for it to start (errors will be displayed, ignore them...) Edit the file: Serversettings.ini in the server root (Server name, password server pass, etc...) then copy this file to: /LF/Saved/Config/ replace the existing one.
 restart your server. Have fun
 
 ## Server Ports
