@@ -1,4 +1,4 @@
-# Night of the Dead eggs:
+# Night of the Dead Ptérodactyl eggs:
 xt4s311@gmail.com
 ## from the developers
 Lucy wakes up from a human experiment and gets trapped in a city covered with zombies. She must survive nightly zombie waves and communicate with a group of survivors to escape from the isolated area.
